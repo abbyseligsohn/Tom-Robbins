@@ -1,0 +1,31 @@
+* {    padding: 5px;
+}
+
+.content-box {
+ background-color: #d6d4d8;
+ border: 2px solid #471a7a;
+ border-radius: 5px;
+ font-family: 'Josefin Slab', serif
+ }
+
+h1 {color: #471a7a;
+  text-decoration-line: underline;
+  font-family: 'Abril Fatface', cursive;
+}
+
+h2 {color: #471a7a;
+  font-family: 'Abril Fatface', cursive;
+}
+
+h3 {text-decoration-line: underline;
+  font-family: 'Abril Fatface', cursive;
+}
+
+
+.table, th, td {
+   border: 1px solid white;
+   color:  #471a7a;
+}
+
+.toggler {padding-left: 10px;
+}
